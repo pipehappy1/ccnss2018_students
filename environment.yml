@@ -1,0 +1,6 @@
+name: ccnss2018_students
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
