@@ -1,0 +1,10 @@
+Ideas for DDM:
+
+* start from vanilla DDM.
+* boundary:
+  * disfferent boundary value, statically or dynamically.
+* drift rate, leaky(forget)
+* bias for starting point.
+* scalar noise.
+* the delay between decision making and the motor action.
+  
